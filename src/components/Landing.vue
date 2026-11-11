@@ -2,7 +2,7 @@
 	<section class="row mx-auto text-white g-5 p-5" id="landing">
 				<div class="d-flex flex-column col-12 col-xl-6 p-1 p-lg-5">
 					<div class="d-flex d-xl-none col-12 col-xl-3 p-1 p-xl-5 justify-content-center ">
-						<img src="./images/my-image.jpg" class="img-fluid rounded-circle border border-secondary border-3 rounded img-desktop" alt="Jovie Cleofas' Portrait">
+						<img src="/images/my-image.jpg" class="img-fluid rounded-circle border border-secondary border-3 rounded img-desktop" alt="Jovie Cleofas' Portrait">
 					</div>
 					<div class="rounded-pill d-none d-lg-inline-block" id="available">
 						<div id="available-circle"></div>
